@@ -31,8 +31,6 @@ function perroGuardian(){
 }
 
 
-
-
 let boton2=document.getElementById("boton2");
 
 boton2.addEventListener("click", Regresar);
